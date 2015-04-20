@@ -1,0 +1,8 @@
+Origin: Dave1482
+Label: dave1482.com
+Suite: stable
+Version: 1.0
+Codename: Dave1482
+Architectures: iphoneos-arm
+Components: main
+Description: Welcome to my Cydia Repo hosted on GitHub!  By downloading from the files refered to by this repo, you agree not to re-distribute the packages found on this repo.

@@ -5,7 +5,7 @@ Maintainer: Dave1482 <dave1482@dave1482.com>
 Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
 Suggests: mobilesubstrate
 Replaces: net.howett.theos
-Filename: ./repo/com.dave1482.theos_04202015_iphoneos-arm.deb
+Filename: ./com.dave1482.theos_04202015_iphoneos-arm.deb
 Size: 258048
 MD5sum: 3383d86e2dd175afd6b1fc5ec0f84eec
 SHA1: 4a5d319affe33791e338556dace627893c0ed078
@@ -21,7 +21,7 @@ Version: 04202015
 Architecture: iphoneos-arm
 Maintainer: Dave1482 <dave1482@dave1482.com>
 Depends: tar
-Filename: ./repo/com.dave1482.theos.sdkinstaller_04202015_iphoneos-arm.deb
+Filename: ./com.dave1482.theos.sdkinstaller_04202015_iphoneos-arm.deb
 Size: 6588
 MD5sum: d25787e51867d5a080c759c7d7427613
 SHA1: 3ccd1dbde8381b9e61ea382fc5ca0cec70876515

@@ -18,8 +18,6 @@
 <a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
 
 <p>If you want to add your own package to the repo, email me <a href="mailto:dave1482@dave1482.com?cc=thedave1482@gmail.com&amp;subject=GitHub%20Cydia%20Repo%20Email">here</a>.</p>
-      </section>
-    </div>
 
               <script type="text/javascript">
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -31,4 +29,3 @@
             pageTracker._trackPageview();
             } catch(err) {}
           </script>
-</body>

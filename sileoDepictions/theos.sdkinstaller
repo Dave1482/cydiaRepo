@@ -1,0 +1,99 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "",
+  "tintColor": "#350388",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "title": "Theos SDK Installer",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "**Supports iOS 3.0-iOS ?**\n\nSDK Installer for Theos\n\nEasy CLI for installing SDKs for Theos.\nRun ios-sdk in Terminal or through SSH. iOS 2.0 - 8.1",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Latest Version",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "title": "Version",
+          "text": "04202015",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Released",
+          "text": "2015-4-20",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Price",
+          "text": "Free",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "spacing": 12,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "title": "Developer",
+          "text": "Dave1482",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Contact Support",
+          "action": "depiction-https://beta.dave1482.com/sileoDepictions/com.dave1482.theos.sdkinstaller/support",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "URL": "https://repo.dave1482.com/CydiaIcon.png",
+          "width": 44,
+          "height": 44,
+          "alignment": 1,
+          "cornerRadius": 0,
+          "class": "DepictionImageView"
+        },
+        {
+          "spacing": 10,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+          "title": "Version 04202015",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "Supports iOS 2.0-8.1 SDKs",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2015-4-20</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}

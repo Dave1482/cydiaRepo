@@ -12,6 +12,7 @@ SHA1: 4a5d319affe33791e338556dace627893c0ed078
 SHA256: 8cf5dbd6b9c69743af4ea2f0521b04587b120067be49c64d22c3b9a4310c45c9
 Section: System
 Description: iphoneos build system
+SileoDepiction: https://repo.dave1482.com/sileoDepictions/theos
 Tag: role::developer
 Author: Dustin Howett, Modded by Dave1482 <dave1482@dave1482.com>
 Name: Theos
@@ -28,7 +29,7 @@ SHA1: 3ccd1dbde8381b9e61ea382fc5ca0cec70876515
 SHA256: b4ddbd555f4bf049061edeba2fce45a59cc8a67d3349aba1ce33c78f45361e9b
 Section: System
 Description: Easy CLI for installing SDKs for Theos. Run ios-sdk in Terminal or through SSH. iOS 2.0 - 8.1
+SileoDepiction: https://repo.dave1482.com/sileoDepictions/theos.sdkinstaller
 Tag: role::developer
 Author: Dave1482 <dave1482@dave1482.com>
 Name: Theos SDK Installer
-

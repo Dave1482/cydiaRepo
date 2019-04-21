@@ -1,8 +1,7 @@
-# Dave1482's Cydia Repo</title>
-        [&#8617; Back to dave1482.com](http://dave1482.com/)
+# Dave1482's Cydia Repo
 
-    <div class="container">
-      <section id="main_content">
+[&#8617; Back to dave1482.com](http://dave1482.com/)
+
 <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://beta.dave1482.com/" class="btn btn-github">Add to Cydia</a>
 <h3>
 <a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span class="octicon octicon-link"></span></a>Depictions</h3>

@@ -3,10 +3,10 @@
 [&#8617; Back to dave1482.com](http://dave1482.com/)
 
 <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://beta.dave1482.com/" class="btn btn-github">Add to Cydia</a>
-### [Depictions](#designer-templates)
+### Depictions
 
 I will get to these eventually...
 
-### [Support or Contact](#support-or-contact)
+### Support or Contact
 
 If you want to add your own package to the repo, email me [here](mailto:dave1482@dave1482.com?cc=thedave1482@gmail.com&amp;subject=GitHub%20Cydia%20Repo).</p>

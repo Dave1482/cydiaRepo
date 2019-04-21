@@ -1,30 +1,9 @@
-<!DOCTYPE html>
-<html><head>
-    <title>Dave1482's Cydia Repo</title>
-  </head>
-
-  <body>
-
-    <header>
-      <div class="container">
-        <h4><a href="http://dave1482.com/">&#8617; Back to dave1482.com</a></h4>
-        <h1 style="padding-left: 36px;">Dave1482 GitHub Cydia Repo</h1>
-        <h3>https://repo.dave1482.com/</h3>
-      </div>
-    </header>
+# Dave1482's Cydia Repo</title>
+        [&#8617; Back to dave1482.com](http://dave1482.com/)
 
     <div class="container">
       <section id="main_content">
-        <h3>
-<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>Welcome to Dave1482's Cydia Repo Page.</h3>
-
-<p>This Cydia Repo is up! The URL below will now add to Cydia!</p>
-
-<pre><code>https://repo.dave1482.com/
-</code></pre>
-
-<p>This repo only has legal packages.</p>
-
+<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://beta.dave1482.com/" class="btn btn-github">Add to Cydia</a>
 <h3>
 <a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span class="octicon octicon-link"></span></a>Depictions</h3>
 

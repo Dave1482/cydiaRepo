@@ -9,4 +9,4 @@ I will get to these eventually...
 
 ### Support or Contact
 
-If you want to add your own package to the repo, email me [here](mailto:dave1482@dave1482.com?cc=thedave1482@gmail.com&amp;subject=GitHub%20Cydia%20Repo).</p>
+If you want to add your own package to the repo, email me [here](mailto:dave1482@dave1482.com?cc=thedave1482@gmail.com&amp;subject=GitHub%20Cydia%20Repo).

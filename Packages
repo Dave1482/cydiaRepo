@@ -9,10 +9,13 @@ MD5sum: b468a9e3e1285dc4a9c00ae407468f75
 SHA1: ff2fc59afc9916961051f797941d5088e9eb7544
 SHA256: 548ea65b147f56f07a0db53fd1de6a034da6d3ab50f1b2fa1dae130167822641
 Section: System
+Homepage: https://repo.dave1482.com/
 Description: Easy CLI for installing SDKs for Theos. Run ios-sdk in Terminal or through SSH. iOS 2.0 - 12.2
+Depiction: https://repo.dave1482.com/
 SileoDepiction: https://repo.dave1482.com/sileoDepictions/theos.sdkinstaller
 Tag: role::developer
 Author: Dave1482 <dave1482@dave1482.com>
+Icon: https://repo.dave1482.com/CydiaIcon.png
 Name: Theos SDK Installer
 
 Package: com.dave1482.theosold
@@ -29,9 +32,12 @@ MD5sum: 74a731b8ad328f8785e5cf6dfc7406b1
 SHA1: 8c437a8b56ecdd9c65373917ba3453bc62dffe0b
 SHA256: 60d2fc137726e2afe036001ae00d56b68403671e6feeca15066173c081640bb4
 Section: System
+Homepage: https://repo.dave1482.com/
 Description: iphoneos build system
+Depiction: https://repo.dave1482.com/
 SileoDepiction: https://repo.dave1482.com/sileoDepictions/theosold
 Tag: role::developer
 Author: Dustin Howett, Modded by Dave1482 <dave1482@dave1482.com>
+Icon: https://repo.dave1482.com/CydiaIcon.png
 Name: Theos (OLD)
 

@@ -6,18 +6,3 @@ Codename: Dave1482
 Architectures: iphoneos-arm
 Components: main
 Description: Welcome to my Repo hosted on GitHub!
-MD5Sum:
- 5d23c4e48863063189bd1b603f8f0544 1419 Packages
- a49723de681fefb6a8306b1cdd9c539d 687 Packages.gz
- 8e2b7946bc251ff923e05a3157518dea 776 Packages.bz2
-SHA1:
- f63488fc7768075795a3584d740bce5553894260 1419 Packages
- 8ac49782798b82a9bb389cf6d19cdb7e82fb9a9b 687 Packages.gz
- b9816c4edbcf5b88e4b2d08211ff0d67144d2fb5 776 Packages.bz2
-SHA256:
-
-012ae2ae38b83264003fe9c9853971bb73e0b0dcfcb9c8b3eb15906838e77c74 1419 Packages
-
-9d5f03a98193f98a60be8f7c5855c7c4957286aaa0a963066b59585316102214 687 Packages.gz
-
-22001106e66eb15ec9898e4d4b3d2e7b7df7bd12d84a755163eb432da8b45a07 776 Packages.bz2

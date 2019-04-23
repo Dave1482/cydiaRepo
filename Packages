@@ -1,35 +1,37 @@
-Package: com.dave1482.theos
-Version: 04202015
-Architecture: iphoneos-arm
-Maintainer: Dave1482 <dave1482@dave1482.com>
-Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
-Suggests: mobilesubstrate
-Replaces: net.howett.theos
-Filename: ./com.dave1482.theos_04202015_iphoneos-arm.deb
-Size: 258048
-MD5sum: 3383d86e2dd175afd6b1fc5ec0f84eec
-SHA1: 4a5d319affe33791e338556dace627893c0ed078
-SHA256: 8cf5dbd6b9c69743af4ea2f0521b04587b120067be49c64d22c3b9a4310c45c9
-Section: System
-Description: iphoneos build system
-SileoDepiction: https://repo.dave1482.com/sileoDepictions/theos
-Tag: role::developer
-Author: Dustin Howett, Modded by Dave1482 <dave1482@dave1482.com>
-Name: Theos
-
 Package: com.dave1482.theos.sdkinstaller
-Version: 04202015
+Version: 04202019
 Architecture: iphoneos-arm
 Maintainer: Dave1482 <dave1482@dave1482.com>
-Depends: tar
-Filename: ./com.dave1482.theos.sdkinstaller_04202015_iphoneos-arm.deb
-Size: 6588
-MD5sum: d25787e51867d5a080c759c7d7427613
-SHA1: 3ccd1dbde8381b9e61ea382fc5ca0cec70876515
-SHA256: b4ddbd555f4bf049061edeba2fce45a59cc8a67d3349aba1ce33c78f45361e9b
+Depends: tar, curl
+Filename: ./com.dave1482.theos.sdkinstaller_04202019_iphoneos-arm.deb
+Size: 1386
+MD5sum: b468a9e3e1285dc4a9c00ae407468f75
+SHA1: ff2fc59afc9916961051f797941d5088e9eb7544
+SHA256: 548ea65b147f56f07a0db53fd1de6a034da6d3ab50f1b2fa1dae130167822641
 Section: System
-Description: Easy CLI for installing SDKs for Theos. Run ios-sdk in Terminal or through SSH. iOS 2.0 - 8.1
+Description: Easy CLI for installing SDKs for Theos. Run ios-sdk in Terminal or through SSH. iOS 2.0 - 12.2
 SileoDepiction: https://repo.dave1482.com/sileoDepictions/theos.sdkinstaller
 Tag: role::developer
 Author: Dave1482 <dave1482@dave1482.com>
 Name: Theos SDK Installer
+
+Package: com.dave1482.theosold
+Version: 04202019
+Architecture: iphoneos-arm
+Maintainer: Dave1482 <dave1482@dave1482.com>
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Suggests: mobilesubstrate
+Replaces: net.howett.theos, com.dave1482.theos
+Provides: com.dave1482.theos
+Filename: ./com.dave1482.theosold_04202019_iphoneos-arm.deb
+Size: 257712
+MD5sum: 74a731b8ad328f8785e5cf6dfc7406b1
+SHA1: 8c437a8b56ecdd9c65373917ba3453bc62dffe0b
+SHA256: 60d2fc137726e2afe036001ae00d56b68403671e6feeca15066173c081640bb4
+Section: System
+Description: iphoneos build system
+SileoDepiction: https://repo.dave1482.com/sileoDepictions/theosold
+Tag: role::developer
+Author: Dustin Howett, Modded by Dave1482 <dave1482@dave1482.com>
+Name: Theos (OLD)
+

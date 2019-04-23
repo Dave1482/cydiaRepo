@@ -13,7 +13,7 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "**Supports iOS 2.0-iOS ?\n\nTheos for iOS**\n\nDevelop apps, tweaks, and more right on your iOS device!",
+          "markdown": "Supports iOS 2.0-iOS ?\n\nTheos for iOS\n\nDevelop apps, tweaks, and more right on your iOS device!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },

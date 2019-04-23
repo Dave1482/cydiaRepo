@@ -26,12 +26,12 @@
         },
         {
           "title": "Version",
-          "text": "04202015",
+          "text": "04202019",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Released",
-          "text": "2015-4-20",
+          "text": "2019-4-20",
           "class": "DepictionTableTextView"
         },
         {
@@ -50,7 +50,7 @@
         },
         {
           "title": "Contact Support",
-          "action": "depiction-https://beta.dave1482.com/sileoDepictions/com.dave1482.theos.sdkinstaller/support",
+          "action": "depiction-https://repo.dave1482.com/sileoDepictions/com.dave1482.theos.sdkinstaller/support",
           "class": "DepictionTableButtonView"
         },
         {

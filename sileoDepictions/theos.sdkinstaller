@@ -76,18 +76,18 @@
       "tabname": "Changelog",
       "views": [
         {
-          "title": "Version 04202015",
+          "title": "Version 04202019",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "Supports iOS 2.0-8.1 SDKs",
+          "markdown": "Supports iOS 2.0-12.2 SDKs",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },
         {
-          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2015-4-20</small>",
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019-4-20</small>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
         },

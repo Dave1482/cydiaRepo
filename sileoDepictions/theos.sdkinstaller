@@ -13,7 +13,7 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "**Supports iOS 3.0-iOS ?**\n\nSDK Installer for Theos\n\nEasy CLI for installing SDKs for Theos.\nRun ios-sdk in Terminal or through SSH. iOS 2.0 - 8.1",
+          "markdown": "Supports iOS 2.0 - 12.2\n\nSDK Installer for Theos\n\nEasy CLI for installing SDKs for Theos.\nRun ios-sdk in Terminal or through SSH. iOS 2.0 - 12.2",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },

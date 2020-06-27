@@ -50,7 +50,7 @@
         },
         {
           "title": "Contact Support",
-          "depiction-action": "https://repo.dave1482.com/sileoDepictions/com.dave1482.theosold/support",
+          depiction-"action": "https://repo.dave1482.com/sileoDepictions/com.dave1482.theosold/support",
           "class": "DepictionTableButtonView"
         },
         {

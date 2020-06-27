@@ -1,3 +1,25 @@
+Package: com.dave1482.powerapp
+Version: 5.0
+Architecture: iphoneos-arm
+Maintainer: Dave1482 <dave1482@dave1482.com>
+Pre-Depends: firmware (>= 3.0), system-cmds, shell-cmds, coreutils
+Recommends: com.midnightchips.ldrun
+Conflicts: com.dave1482.powerappbeta
+Filename: ./com.dave1482.powerapp_5.0_iphoneos-arm.deb
+Size: 270780
+MD5sum: 2eac8806aa026da0d0554525476fd349
+SHA1: c509e48720017a3c05e9114228d459ecd543c63d
+SHA256: 69e45c5c015a826642b570ff43b780f2b5dbabad83d3cbf5ba30c29ee544f21c
+Section: Utilities
+Description: Reboot, Shutdown, Respring, go into Safemode
+Depiction: https://repo.dave1482.com/
+SileoDepiction: https://repo.dave1482.com/sileoDepictions/powerapp
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15
+Author: Dave1482 <dave1482@dave1482.com>
+Dev: thedave1482
+Icon: file:///Applications/PowerApp.app/Icon.png
+Name: PowerApp
+
 Package: com.dave1482.theos.sdkinstaller
 Version: 04202019
 Architecture: iphoneos-arm
@@ -40,4 +62,3 @@ Tag: role::developer
 Author: Dustin Howett, Modded by Dave1482 <dave1482@dave1482.com>
 Icon: https://repo.dave1482.com/CydiaIcon.png
 Name: Theos (OLD)
-

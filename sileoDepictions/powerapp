@@ -1,0 +1,168 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://repo.dave1482.com/sileoDepictions/com.dave1482.powerapp/h.png",
+  "tintColor": "#350388",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "title": "Reboot, Shutdown, Respring, and more easily",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 284.44444444444446}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://repo.dave1482.com/sileoDepictions/com.dave1482.powerapp/ss1.png",
+              "fullSizeURL": "https://repo.dave1482.com/sileoDepictions/com.dave1482.powerapp/ss1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://repo.dave1482.com/sileoDepictions/com.dave1482.powerapp/ss2.png",
+              "fullSizeURL": "https://repo.dave1482.com/sileoDepictions/com.dave1482.powerapp/ss2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://repo.dave1482.com/sileoDepictions/com.dave1482.powerapp/ss3.png",
+              "fullSizeURL": "https://repo.dave1482.com/sileoDepictions/com.dave1482.powerapp/ss3.png"
+            }
+          ],
+          "ipad": {
+            "itemCornerRadius": 9,
+            "itemSize": "{320, 568.8888888888889}",
+            "screenshots": [
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://repo.dave1482.com/sileoDepictions/com.dave1482.powerapp/ss1pad.png",
+                "fullSizeURL": "https://repo.dave1482.com/sileoDepictions/com.dave1482.powerapp/ss1pad.png"
+              },
+              {
+              "accessibilityText": "Screenshot",
+              "url": "https://repo.dave1482.com/sileoDepictions/com.dave1482.powerapp/ss2pad.png",
+              "fullSizeURL": "https://repo.dave1482.com/sileoDepictions/com.dave1482.powerapp/ss2pad.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://repo.dave1482.com/sileoDepictions/com.dave1482.powerapp/ss3pad.png",
+              "fullSizeURL": "https://repo.dave1482.com/sileoDepictions/com.dave1482.powerapp/ss3pad.png"
+            }
+            ],
+            "class": "DepictionScreenshotView"
+          },
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "markdown": " **Supports iOS 3.0-iOS 14+**\n\nReboot, Shutdown, Respring, and Refresh SpringBoard without MobileSubstrate or Substitute!\n\nGoing into Safe Mode and entering Non-MobileSubstrate Mode by respringing requires MobileSubstrate, but it is not a requirement for PowerApp.",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Latest Version",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "title": "Version",
+          "text": "5.0",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Updated",
+          "text": "3/17/2020",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Price",
+          "text": "Free",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "spacing": 12,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "title": "Developer",
+          "text": "dave1482",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Contact Support",
+          "depiction-action": "https://repo.dave1482.com/sileoDepictions/com.dave1482.powerapp/support",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "URL": "https://repo.dave1482.com/CydiaIcon.png",
+          "width": 44,
+          "height": 44,
+          "alignment": 1,
+          "cornerRadius": 0,
+          "class": "DepictionImageView"
+        },
+        {
+          "spacing": 10,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+          "title": "Version 5.0",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "* Last version with Lock Device button",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "* Last installable version for any iOS version below iOS 8",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "* Button Redesign",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "* New Commands Options for Respring in Settings",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "* Fixed Alerts Settings label",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "* Early iOS 14-15 Preparations",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Re-Released 2020-6-27</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}

@@ -1,3 +1,18 @@
+Package: com.dave1482.dbk1ng.minimalstatusbar
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Dave1482 <dave1482@dave1482.com>
+Filename: ./com.dave1482.dbk1ng.minimalstatusbar_2.0_iphoneos-arm.deb
+Size: 38100
+MD5sum: e1d7ec9a56a24853dc620161eeb568c6
+SHA1: ffcc23485f8b3ef85c8701eb274c404e42ca4b34
+SHA256: c14cb5c2e266b7942595b3e7b977641c02ee32639d6b048fcde6a48081253c53
+Section: Themes (Status Bar)
+Description: A Minimal Status Bar Theme
+Author: Daniel B King, Dave1482 <dave1482@dave1482.com>
+Icon: https://repo.dave1482.com/CydiaIcon.png
+Name: Minimal Status Bar
+
 Package: com.dave1482.powerapp
 Version: 5.0
 Architecture: iphoneos-arm
@@ -11,9 +26,8 @@ MD5sum: 2eac8806aa026da0d0554525476fd349
 SHA1: c509e48720017a3c05e9114228d459ecd543c63d
 SHA256: 69e45c5c015a826642b570ff43b780f2b5dbabad83d3cbf5ba30c29ee544f21c
 Section: Utilities
-Description: Reboot, Shutdown, Respring, go into Safemode
-Depiction: https://repo.dave1482.com/
 SileoDepiction: https://repo.dave1482.com/sileoDepictions/powerapp
+Description: Reboot, Shutdown, Respring, go into Safemode
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15
 Author: Dave1482 <dave1482@dave1482.com>
 Dev: thedave1482
@@ -31,9 +45,7 @@ MD5sum: b468a9e3e1285dc4a9c00ae407468f75
 SHA1: ff2fc59afc9916961051f797941d5088e9eb7544
 SHA256: 548ea65b147f56f07a0db53fd1de6a034da6d3ab50f1b2fa1dae130167822641
 Section: System
-Homepage: https://repo.dave1482.com/
 Description: Easy CLI for installing SDKs for Theos. Run ios-sdk in Terminal or through SSH. iOS 2.0 - 12.2
-Depiction: https://repo.dave1482.com/
 SileoDepiction: https://repo.dave1482.com/sileoDepictions/theos.sdkinstaller
 Tag: role::developer
 Author: Dave1482 <dave1482@dave1482.com>
@@ -54,11 +66,10 @@ MD5sum: 74a731b8ad328f8785e5cf6dfc7406b1
 SHA1: 8c437a8b56ecdd9c65373917ba3453bc62dffe0b
 SHA256: 60d2fc137726e2afe036001ae00d56b68403671e6feeca15066173c081640bb4
 Section: System
-Homepage: https://repo.dave1482.com/
 Description: iphoneos build system
-Depiction: https://repo.dave1482.com/
 SileoDepiction: https://repo.dave1482.com/sileoDepictions/theosold
 Tag: role::developer
 Author: Dustin Howett, Modded by Dave1482 <dave1482@dave1482.com>
 Icon: https://repo.dave1482.com/CydiaIcon.png
 Name: Theos (OLD)
+

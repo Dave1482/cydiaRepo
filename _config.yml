@@ -4,3 +4,6 @@ iconURL: /CydiaIcon.png
 social:
   twitter: realDave1482
   github: Dave1482
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag

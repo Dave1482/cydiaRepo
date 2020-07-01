@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 author: Dave1482
 title: Minimal Status Bar
 ---

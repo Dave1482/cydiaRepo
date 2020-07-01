@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 author: Dave1482
 title: null
 ---

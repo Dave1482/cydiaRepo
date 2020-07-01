@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 author: Dave1482
 ---
 <body style="font-family: Arial, Helvetica, sans-serif; text-align: center;">

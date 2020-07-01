@@ -1,3 +1,6 @@
-remote_theme: SupunKavinda/jekyll-theme-leaf
 title: null
+remote_theme: SupunKavinda/jekyll-theme-leaf
 iconURL: /CydiaIcon.png
+social:
+  twitter: realDave1482
+  github: Dave1482

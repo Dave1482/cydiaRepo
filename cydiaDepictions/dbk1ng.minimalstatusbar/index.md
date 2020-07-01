@@ -1,3 +1,8 @@
+---
+layout: post
+author: Dave1482
+title: null
+---
 # Minimal Status Bar
 <body style="font-family: Arial, Helvetica, sans-serif; text-align: center;">
 A Minimal Status Bar Theme made by dbk1ng, updated by Dave1482

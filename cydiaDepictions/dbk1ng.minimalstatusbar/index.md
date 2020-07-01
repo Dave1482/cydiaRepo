@@ -4,7 +4,7 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 </style>
-
+</head>
 [&#8617; Back to dave1482.com](http://dave1482.com/)
 
 <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.dave1482.com/" class="btn btn-github">Add to Cydia</a>

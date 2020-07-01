@@ -9,6 +9,7 @@ SHA1: ffcc23485f8b3ef85c8701eb274c404e42ca4b34
 SHA256: c14cb5c2e266b7942595b3e7b977641c02ee32639d6b048fcde6a48081253c53
 Section: Themes (Status Bar)
 Description: A Minimal Status Bar Theme
+Depiction: https://repo.dave1482.com/cydiaDepictions/dbk1ng.minimalstatusbar.html
 Author: Daniel B King, Dave1482 <dave1482@dave1482.com>
 Icon: https://repo.dave1482.com/CydiaIcon.png
 Name: Minimal Status Bar

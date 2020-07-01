@@ -1,9 +1,4 @@
-# Dave1482's Cydia Repo
-
-[&#8617; Back to dave1482.com](http://dave1482.com/)
-
-<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.dave1482.com/" class="btn btn-github">Add to Cydia</a>
-### Minimal Status Bar
+## Minimal Status Bar
 <body class="sansserif">
 A Minimal Status Bar Theme made by dbk1ng, updated by Dave1482
 <br>

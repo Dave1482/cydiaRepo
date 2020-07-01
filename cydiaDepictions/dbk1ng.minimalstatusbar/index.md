@@ -1,15 +1,6 @@
 ## Minimal Status Bar
 <head>
-<style>
-  .sansserif {
-    font-family: Arial, Helvetica, sans-serif;
-  }
-
-  body {text-align: center;}
-  a {text-align: center;}
-  div {text-align: center;}
-</style>
-</head><body class="sansserif">
+</head><body style="font-family: Arial, Helvetica, sans-serif; text-align: center;">
 A Minimal Status Bar Theme made by dbk1ng, updated by Dave1482
 <br>
 <br>

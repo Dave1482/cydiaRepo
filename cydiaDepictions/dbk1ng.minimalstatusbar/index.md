@@ -7,5 +7,7 @@ title: Minimal Status Bar
 A Minimal Status Bar Theme made by dbk1ng, updated by Dave1482
 <br>
 <br>
-<a href="https://www.paypal.me/dbk1ng"><img class="icon" src="http://dbk1ng.github.io/assets/icons/paypal.png"><div><div><label><p>Donate to dbk1ng</p></label></div></div></a>
+<img class="icon" src="http://dbk1ng.github.io/assets/icons/paypal.png">
+<a href="https://www.paypal.me/dbk1ng"><div><div><label><p>Donate to dbk1ng</p></label></div></div></a>
+<a href="https://www.paypal.me/davet1482"><div><div><label><p>Donate to Dave1482</p></label></div></div></a>
 </body>

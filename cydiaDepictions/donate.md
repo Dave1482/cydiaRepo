@@ -1,4 +1,4 @@
 <div style="text-align: center;">
-  <img class="icon" src="/assets/paypal.png">
+  <img class="icon" src="https://github.dave1482.com/assets/icons/paypal.png">
   <a href="https://www.paypal.me/davet1482"><div><label><p>Donate</p></label></div></a>
 </div>

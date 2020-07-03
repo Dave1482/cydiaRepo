@@ -1,3 +1,8 @@
+---
+layout: page
+author: Dave1482
+title: PowerApp
+---
 # PowerApp
 **Supports iOS 3.0-iOS 14+**    
 
@@ -161,3 +166,9 @@ be Available in PowerApp+
 
 **Version 1.0:**  
 * Initial Release
+A Minimal Status Bar Theme made by dbk1ng, updated by Dave1482
+
+<br>
+<div style="text-align: center;">
+<a href="https://www.paypal.me/dave1482"><img class="icon" src="http://dbk1ng.github.io/assets/icons/paypal.png"><div><div><label><p>Donate</p></label></div></div></a>
+</div>

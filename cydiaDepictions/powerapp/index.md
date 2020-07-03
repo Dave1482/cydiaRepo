@@ -165,7 +165,6 @@ be Available in PowerApp+
 
 **Version 1.0:**  
 * Initial Release
-A Minimal Status Bar Theme made by dbk1ng, updated by Dave1482
 
 <br>
 <div style="text-align: center;">

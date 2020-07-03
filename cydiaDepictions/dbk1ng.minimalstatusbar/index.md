@@ -3,6 +3,7 @@ layout: page
 author: Dave1482
 title: Minimal Status Bar
 ---
+
 <body style="text-align: center;">
 A Minimal Status Bar Theme made by dbk1ng, updated by Dave1482
 <br>
